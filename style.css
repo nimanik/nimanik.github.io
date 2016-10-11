@@ -3,73 +3,10 @@ body{
 	color: #00FF00;
 }
 
-header{
-	position: fixed;
-   	top: 0;
-   	width: 100%;
-   	margin: 0;
-   	height:50px;
-   	left: 0px;
-   	margin-left: 0;  
-	background-color: #00FF00;
-	color: black;
-}
-
 h1{
 	font-size: 250%;
-	font-family: 'Exo 2', sans-serif;
-	text-align: left;
-}
-
-#code{
+	font-family: sans-serif;
 	text-align: center;
-	font-size: 750%;
 }
 
-table, th, td {
-    border: 2px solid #00FF00;
-    border-collapse: collapse;
-    padding: 5px;
-    text-align: left;
-}
 
-th{
-	font-size: 120%;
-}
-
-table{
-	width: 75% !important;
-	max-width: 1000px;
-	min-width: 500px;
-}
-
-td{
-	padding:8px;
-}
-
-a{
-	text-decoration: none;
-	color: #00FF00;
-}
-
-ul{
-	margin: 3;
-}
-
-div{
-	width: 65px;
-	padding: 5px;
-	margin-left: 10px;
-	margin-right: 10px;
-	transition: 0.2s;
-	text-align: center;
-	height: 40px;
-	display: inline-block;
-	color: black;
-}
-
-div:hover, #current{
-	background-color: black;
-	color: #00FF00;
-	border-color: 141414;
-}
