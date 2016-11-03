@@ -1,0 +1,48 @@
+div{
+text-align: center;
+}
+ul{
+	display: inline-block;
+	text-align: left;
+}
+.exper2{
+text-align: center;
+}
+ol{
+	display: inline-block;
+	text-align: left;
+}
+*{
+	font-family: Impact;
+	
+}
+.color{
+	color: Orange;
+}
+.color2{
+	color: Blue;
+}
+.color3{
+	color: Green;
+}
+.color4{
+	color: Green;
+}
+.color5{
+	color: Purple;
+	
+}
+.color6{
+	color: Gray;
+}
+img{
+	border: 5px Black dashed;
+	
+}
+
+a:visited{
+	color: Black;
+}
+body{
+	background-color: Red;
+}
